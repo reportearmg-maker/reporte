@@ -28,7 +28,8 @@ window.RMG_CONFIG = {
     'CHELSEA CHIU',
     'JOSE BARRIOS',
     'THOMAS DEL BARRIO',
-    'YOHALYS JIMENEZ'
+    'YOHALYS JIMENEZ',
+    'GENESIS GALLARDO'
   ],
   areas: ['Bloque 1', 'Bloque 2', 'Bloque 3', 'Bloque 4', 'Otro'],
   tiposFalla: ['Gantry', 'Hoist', 'Trolley', 'Spreader', 'Micromotion', 'CPS', 'RFID', 'LPS', 'Anti-Lift', 'Cabin Protection', 'Camaras', 'Otros'],
