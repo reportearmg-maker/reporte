@@ -1,7 +1,5 @@
 /*
-  Configuración general del sistema.
-  - Cambia API_URL si publicas un nuevo Google Apps Script.
-  - Los valores de listas se editan aquí y aplican a captura e historial.
+
 */
 window.RMG_CONFIG = {
   version: '3.1',
