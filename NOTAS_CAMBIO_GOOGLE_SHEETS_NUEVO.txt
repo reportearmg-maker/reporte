@@ -1,0 +1,20 @@
+Reporte aRMG - Cambio de destino Google Sheets
+
+Versión ajustada: 3.2.1
+
+Nuevo endpoint configurado:
+https://script.google.com/macros/s/AKfycbwurv0uVeglPxtebjIGP0hPezh-14A9PbPqZ1mOnwBhjGMvEhxIQ_pEgQow5rXncOxc/exec
+
+Cambios aplicados:
+- Se cambió la URL del Google Apps Script en config.js.
+- Se agregaron parámetros de versión a los scripts para evitar que GitHub Pages o el navegador carguen archivos viejos.
+- Se cambiaron las llaves de caché local para que no aparezcan datos del Google Sheets anterior.
+- Se agregó limpieza automática de caché cuando cambia la URL del Apps Script.
+
+Archivos principales modificados:
+- config.js
+- index.html
+- historial.html
+
+Después de subir el paquete a GitHub Pages, abrir la página con Ctrl + F5.
+Si todavía ves datos viejos, probar en modo incógnito.

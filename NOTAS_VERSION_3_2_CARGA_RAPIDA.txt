@@ -1,0 +1,21 @@
+Reporte de Fallas RMG - Version 3.2 Carga rapida
+
+Cambios incluidos:
+1. La pantalla principal ya no espera a cargar toda la data para mostrar la interfaz.
+2. Se agrega cache local del navegador para mostrar el ultimo resumen rapidamente.
+3. La consulta inicial de captura solicita solo reportes activos, evitando cargar eliminados.
+4. El historial ahora carga por paginas de 25 reportes con boton Ver mas.
+5. La actualizacion desde Google Sheets corre en segundo plano.
+6. Se mantiene la proteccion de reportes cerrados y el boton Uso de bypass.
+
+Archivos principales modificados:
+- index.html
+- historial.html
+- app.js
+- historial.js
+- config.js
+- styles.css
+- utils.js
+
+Para publicar:
+Reemplaza el contenido del repositorio GitHub Pages por los archivos de esta carpeta.
