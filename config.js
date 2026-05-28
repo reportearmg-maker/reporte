@@ -43,7 +43,7 @@ window.RMG_CONFIG = {
     'YOHALYS JIMENEZ'
   ],
   areas: ['Bloque 1', 'Bloque 2', 'Bloque 3', 'Bloque 4', 'Sala RCS / Mesa Remota', 'Otro'],
-  tiposFalla: ['Gantry', 'Hoist', 'Trolley', 'Spreader', 'Micromotion', 'CPS', 'RFID', 'LPS', 'Anti-Lift', 'Cabin Protection', 'Cámaras', 'Mesa Remota / RCS', 'Otros'],
+  tiposFalla: ['Gantry', 'Hoist', 'Trolley', 'Spreader', 'Micromotion', 'CPS', 'RFID', 'LPS', 'Anti-Lift', 'Cabin Protection', 'Cámaras', 'Mesa Remota / RCS', 'Otros', 'Mantenimiento'],
   modosOperacion: ['Automático', 'Remoto', 'Manual', 'Mantenimiento'],
   severidades: ['Baja', 'Media', 'Alta', 'Crítica']
 };
